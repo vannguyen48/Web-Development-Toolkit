@@ -1,8 +1,8 @@
 # CSS Cheat Sheet
 
 ## Reference:
-*https://www.w3schools.com/cssref/css_selectors.asp
-*https://css-tricks.com/almanac/
+* https://www.w3schools.com/cssref/css_selectors.asp
+* https://css-tricks.com/almanac/
 
 Cascading Style Sheets at the most basic level it indicates that the order of CSS rules matter.
 
