@@ -9,7 +9,7 @@ Cascading Style Sheets at the most basic level it indicates that the order of CS
 
 - **.class**: class selector
 - **#id**: select element with matching id  
- &#42; : select all elements (usually on top)
+- &#42; : select all elements (usually on top)
 - **element**: select specified html element
 - **element1, element2**: select all element1 and element2
 - **element1 element2**: select element1 and element2
